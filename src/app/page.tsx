@@ -7,7 +7,9 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-        "Shaheen CC is a new team of Rahim yar Khan who has made a name for himself in a short span of time and this team will be playing matches with Rahimyar Khan's teams in the near future and will have many successes which has made him  has achieved a lot of success in a short period of time, so inshallah it will do well in the coming time as well and the second thing is that all the boys who are playing in this team are all new talents and all of them have new blood and this is a  The team runs under an effort led."
+        “Tailwind CSS is the only framework that I have seen scale
+        on large teams. It is easy to customize, adapts to any design,
+        and the build size is tiny.”
         </p>
       </blockquote>
       <figcaption className="font-medium">
